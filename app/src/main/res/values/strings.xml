@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">listViewpowtorka</string>
+    <string-array name="owoce">
+        <item>Jabłko</item>
+        <item>Gruszka</item>
+        <item>Cytryna</item>
+        <item>Mandarynki</item>
+
+    </string-array>
+</resources>
